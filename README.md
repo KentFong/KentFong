@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Kent here, interested in everything data! 
+
+### 📚Projects
+### Welcome to my Portfolio, where I showcase my Projects
+
+### 🛠️ Tools 
+### - Languages : Python, SQL, R, Java, HTML
+### - Database : Google BigQuery, PostgreSQL, MongoDB
+### - Visualization : Tableau, PowerBi, VegaLite 
+
 <!--
 **KentFong/KentFong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
