@@ -3,7 +3,8 @@
 ### Kent here, interested in everything data! 
 
 ### 📚Projects
-#### Welcome to my Portfolio, where I showcase my Projects
+#### Welcome to my Portfolio, where I showcase my [Projects](https://github.com/KentFong).
+
 
 ### 🛠️ Tools 
 #### - Languages : Python, SQL, R, Java, HTML
