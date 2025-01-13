@@ -3,7 +3,7 @@
 ### Kent here, interested in everything data! 
 
 ### 📚Projects
-#### Welcome to my Portfolio, where I showcase my [Projects](https://github.com/KentFong).
+#### Welcome to my Portfolio, where I showcase my [Projects](https://github.com/KentFong/Portfolio).
 
 
 ### 🛠️ Tools 
